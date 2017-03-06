@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.HornetWings", "01.HornetWings\01.HornetWings.csproj", "{A89154A7-CE10-4266-87AC-CACF9E5D2F97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.HornetComm", "02.HornetComm\02.HornetComm.csproj", "{22FD4642-AD7A-4347-A197-2CCF2A7A843B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.HornetAssault", "03.HornetAssault\03.HornetAssault.csproj", "{4C606057-137A-4E57-AE4F-AB11D98D42C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A89154A7-CE10-4266-87AC-CACF9E5D2F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89154A7-CE10-4266-87AC-CACF9E5D2F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89154A7-CE10-4266-87AC-CACF9E5D2F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89154A7-CE10-4266-87AC-CACF9E5D2F97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22FD4642-AD7A-4347-A197-2CCF2A7A843B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FD4642-AD7A-4347-A197-2CCF2A7A843B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FD4642-AD7A-4347-A197-2CCF2A7A843B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FD4642-AD7A-4347-A197-2CCF2A7A843B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C606057-137A-4E57-AE4F-AB11D98D42C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C606057-137A-4E57-AE4F-AB11D98D42C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C606057-137A-4E57-AE4F-AB11D98D42C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C606057-137A-4E57-AE4F-AB11D98D42C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
